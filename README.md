@@ -2,6 +2,6 @@
 Laboratorio 3
 
 Integrantes:
-Adilio Enrique Castillo Acosta  CA21118
+Alidio Enrique Castillo Acosta  CA21118
 Juan José Hernández Pineda      HP13008
 Oscar Armando Santos Bonilla    SB14009
